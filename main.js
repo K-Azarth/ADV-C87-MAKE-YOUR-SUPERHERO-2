@@ -65,7 +65,7 @@ function MyKeydown(e) {
         console.log("R is pressed")
     }
     if (Key == "66") {
-        Block_add("Ultimate_Superhero_Lefthnad.png");
+        Block_add("Ultimate_Superhero_Lefthand.png");
         console.log("h is pressed")
     }
 
